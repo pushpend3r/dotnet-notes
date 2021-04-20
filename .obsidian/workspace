@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "04dcdfa0c6887c13",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bba9c1880c32eff",
+        "type": "leaf",
+        "dimension": 47.93261868300153,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "intro.md",
+            "mode": "source"
+          }
+        },
+        "group": "406cd86ad3b1248c"
+      },
+      {
+        "id": "0bc9ee87a72206ff",
+        "type": "leaf",
+        "dimension": 52.06738131699847,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "intro.md",
+            "mode": "preview"
+          }
+        },
+        "group": "406cd86ad3b1248c"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec8c7806abc75916",
+    "type": "split",
+    "children": [
+      {
+        "id": "47b55f2440c1fd9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42a20e5595493b79",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e46b688e24275074",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278,
+    "collapsed": true
+  },
+  "right": {
+    "id": "5ebd212040a9bdf5",
+    "type": "split",
+    "children": [
+      {
+        "id": "83b77e3d0f145771",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5902096f5da627bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "intro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5bba9c1880c32eff",
+  "lastOpenFiles": [
+    "intro.md",
+    "dotnet.md",
+    "Untitled.md"
+  ]
+}
