@@ -20,11 +20,6 @@ You can build -
 previously named **.Net Core**.
 successor to **.Net Framework**.
 
-At first there were various implementations of **.NET** for different OS*s*.
-- **.Net Framework**
-- **.NET Core**
-- **Mono/Xamarin**
-
 Now everything is combined into single SDK, one BCL (Base class Library), unified toolchain.
 
 To put things into single perceptive..
@@ -36,10 +31,15 @@ It includes
 - Libraries --> BCL (built-in stuff), 3rd party libraries, OSS.
 - Tools --> NuGet, Visual Studio
 
-### Implementation
+### Implementations
 1. .NET Framework
-2. .NET 5 and later versions [Actively developed by Microsoft]
+2. .NET 5 (and .NET Core) and later versions
 3. Mono
+4. UWP
+
+Now Microsoft vision is **One Ecosystem** and **One Implementation**.
+
+.NET 5 is now the primary implementation, the one that is the focus of ongoing development. .NET 5 is built on a single code base that supports multiple platforms and many workloads, such as Windows desktop apps and cross-platform console apps, cloud services, and websites.
 
 ---
 
